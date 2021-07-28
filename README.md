@@ -37,7 +37,7 @@
 
 
 
-# 🧑🏻‍💻 <a href="https://github.com/peertec/recruit/blob/d2bd97a3951bf9b31ad29bb76775e2f21bba8038/README.md"><strong>채용공고 확인하기</strong></a> 👩🏻‍💻
+# 🧑🏻‍💻 <a href="https://github.com/peertec/recruit.git"><strong>채용공고 확인하기</strong></a> 👩🏻‍💻
 
 
 <!---
